@@ -64,5 +64,5 @@ My journey in Computer Science has sparked a strong passion for cybersecurity, a
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- <a href="https://github.com/segunenix/Cybersec-Journey-/blob/main/projects/Active-Directory-Environment.md">Active Directory Environment</a>
+- <a href="https://github.com/segunenix/Cybersec-Journey-/blob/main/projects/SOC%20Automation.md">SOC Automation</a>
